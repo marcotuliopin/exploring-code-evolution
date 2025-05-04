@@ -76,11 +76,11 @@ Em seguida, adicione o arquivo gerado `index.html` no seu fork.
 
 Por fim, responda as questões abaixo no seu `fork`: 
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
+1. Repositório selecionado: https://github.com/huggingface/transformers
 
-2. Gráfico selecionado: <NOME_DO_GRAFICO_SELECIONADO_AQUI>
+2. Gráfico selecionado: LOC / Python files 
   
-3. Explicação: <EXPLICACAO_AQUI>
+3. Explicação: Esse gráfico mostra o ciclo do projeto de software, com uma fase inicial de crescimento controlado (2020-2021), um período de adição intensa de código (2021-2022), e uma etapa de refinamento do código (2022-2025). Vemos que na fase de expansão, há um aumento do número de linhas por arquivo, indicando que o código cresceu rápido e com pouca modularização, resultando em arquivos mais extensos. Já na fase de estabilização, provavelmente houveram refatorações e melhorias da arquitetura.
 
 
 
